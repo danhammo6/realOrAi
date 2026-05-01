@@ -1,0 +1,327 @@
+[
+  {
+    "slug": "ai_portrait_farmer",
+    "category": "portrait",
+    "workflow": "realism",
+    "aspect": "2:3",
+    "caption": "AI-generated — Z-Image photorealistic portrait",
+    "positive": "Candid portrait photograph of an older farmer in a flannel shirt, weathered face and calloused hands, standing in a barn doorway, natural window light from the side, shot on 85mm lens, shallow depth of field, muted earth tones, slight film grain",
+    "negative": "watermark, text, oversaturated, cartoon, illustration, plastic skin, waxy, smooth airbrushed, symmetrical"
+  },
+  {
+    "slug": "ai_portrait_child_market",
+    "category": "portrait",
+    "workflow": "realism",
+    "aspect": "2:3",
+    "caption": "AI-generated — Z-Image photorealistic portrait",
+    "positive": "Documentary-style photograph of a young girl at an outdoor market in Vietnam, eating a mango, warm afternoon light, 50mm lens, natural skin texture with freckles and flyaway hair, background softly out of focus with colorful fabrics",
+    "negative": "watermark, text, cartoon, plastic skin, airbrushed, perfect symmetry, extra fingers"
+  },
+  {
+    "slug": "ai_portrait_musician",
+    "category": "portrait",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated — Z-Image photorealistic portrait",
+    "positive": "Environmental portrait of a jazz saxophonist on a dim club stage, mid-performance, stage light creating rim light on his shoulders, dust motes visible in the air, 35mm lens at f/2, grainy Kodak Portra 800 film look",
+    "negative": "watermark, text, cartoon, oversaturated, over-sharpened, hdr look"
+  },
+
+  {
+    "slug": "ai_landscape_coast",
+    "category": "landscape",
+    "workflow": "realism",
+    "aspect": "16:9",
+    "caption": "AI-generated — Z-Image landscape",
+    "positive": "Wide-angle landscape photograph of a rocky Pacific coast at dawn, long-exposure ocean smoothing the surf, low fog rolling between sea stacks, pale salmon sky with scattered clouds, 24mm lens, tripod shot",
+    "negative": "watermark, text, cartoon, oversaturated, painterly, blurry"
+  },
+  {
+    "slug": "ai_landscape_desert",
+    "category": "landscape",
+    "workflow": "realism",
+    "aspect": "16:9",
+    "caption": "AI-generated — Z-Image landscape",
+    "positive": "Sand dunes in the Namib desert at sunrise, long sinuous shadows across the ridges, single set of footprints, deep orange sand against pale blue sky, shot on medium format",
+    "negative": "watermark, text, illustration, cartoon, oversaturated, painterly"
+  },
+  {
+    "slug": "ai_landscape_autumn",
+    "category": "landscape",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated — Z-Image landscape",
+    "positive": "A narrow backroad winding through New England in peak autumn, red maples and yellow birches overhead forming a tunnel, morning mist, wet asphalt reflecting color, photographed on overcast day with soft diffuse light",
+    "negative": "watermark, text, cartoon, oversaturated, hdr look"
+  },
+
+  {
+    "slug": "ai_food_ramen",
+    "category": "food",
+    "workflow": "realism",
+    "aspect": "1:1",
+    "caption": "AI-generated — Z-Image food photograph",
+    "positive": "Overhead photograph of a bowl of tonkotsu ramen on a dark wooden table, soft-boiled egg halved to show runny yolk, scallions and nori, chopsticks resting across the bowl, steam rising, natural window light from one side",
+    "negative": "watermark, text, cartoon, plastic food, over-saturated, unnatural colors"
+  },
+  {
+    "slug": "ai_food_breakfast",
+    "category": "food",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated — Z-Image food photograph",
+    "positive": "A rustic breakfast spread photographed from a 45-degree angle: sourdough toast, poached eggs, crispy bacon, roasted tomatoes on vine, small jar of orange marmalade, linen napkin, natural morning light through sheer curtains",
+    "negative": "watermark, text, cartoon, plastic, neon colors, oversaturated"
+  },
+  {
+    "slug": "ai_food_market",
+    "category": "food",
+    "workflow": "realism",
+    "aspect": "1:1",
+    "caption": "AI-generated — Z-Image food photograph",
+    "positive": "Close-up of a wicker basket at a farmers market filled with heirloom tomatoes of assorted colors and shapes, dew on the skins, a small handwritten chalkboard sign propped in the basket that reads \"HEIRLOOM $4/lb\", soft overcast light",
+    "negative": "watermark, cartoon, plastic, neon, over-sharpened, garbled text, misspelled letters"
+  },
+  {
+    "slug": "ai_food_bakery",
+    "category": "food",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated — Z-Image food photograph",
+    "positive": "A French bakery window at dawn, croissants and pain au chocolat arranged on wooden trays, a small chalkboard in the window reads \"Boulangerie — ouvert 6h\", condensation on the glass, soft blue hour light outside",
+    "negative": "watermark, cartoon, plastic, oversaturated, garbled text"
+  },
+
+  {
+    "slug": "ai_animal_fox",
+    "category": "wildlife",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated — Z-Image wildlife photograph",
+    "positive": "Red fox standing alert in a snowy meadow at blue hour, breath visible in the cold air, individual whiskers and guard hairs visible, shallow depth of field, 400mm telephoto lens",
+    "negative": "watermark, text, cartoon, oversaturated, illustration, toy-like"
+  },
+  {
+    "slug": "ai_animal_macaw",
+    "category": "wildlife",
+    "workflow": "realism",
+    "aspect": "2:3",
+    "caption": "AI-generated — Z-Image wildlife photograph",
+    "positive": "Scarlet macaw perched on a mossy branch in the Amazon, feather detail sharp, jungle background completely blurred, diffused morning light, 300mm prime lens",
+    "negative": "watermark, text, cartoon, illustration, oversaturated, toy-like"
+  },
+  {
+    "slug": "ai_animal_otter",
+    "category": "wildlife",
+    "workflow": "realism",
+    "aspect": "1:1",
+    "caption": "AI-generated — Z-Image wildlife photograph",
+    "positive": "Sea otter floating on its back in kelp holding a shell on its chest, wet fur detail, droplets of water on whiskers, soft overcast daylight, shot from water level",
+    "negative": "watermark, text, cartoon, oversaturated, illustration"
+  },
+
+  {
+    "slug": "ai_macro_butterfly",
+    "category": "macro",
+    "workflow": "realism",
+    "aspect": "1:1",
+    "caption": "AI-generated — Z-Image macro photograph",
+    "positive": "Extreme macro photograph of a blue morpho butterfly wing showing individual iridescent scales, shallow depth of field, dark background, studio ring light, 5:1 magnification",
+    "negative": "watermark, text, cartoon, illustration, painterly"
+  },
+  {
+    "slug": "ai_macro_dewdrop",
+    "category": "macro",
+    "workflow": "realism",
+    "aspect": "1:1",
+    "caption": "AI-generated — Z-Image macro photograph",
+    "positive": "Macro photograph of a dew drop on a blade of grass at sunrise, refracted tiny image of a flower visible inside the drop, background completely out of focus bokeh, early morning light",
+    "negative": "watermark, text, cartoon, illustration, painterly"
+  },
+
+  {
+    "slug": "ai_architecture_cathedral",
+    "category": "architecture",
+    "workflow": "realism",
+    "aspect": "2:3",
+    "caption": "AI-generated — Z-Image architecture photograph",
+    "positive": "Interior of a Gothic cathedral looking up a nave toward the apse, morning light streaming through stained glass onto stone columns, wide-angle tilt-shift lens, tourists visible in deep background for scale",
+    "negative": "watermark, text, cartoon, over-hdr, oversaturated"
+  },
+  {
+    "slug": "ai_architecture_cabin",
+    "category": "architecture",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated — Z-Image architecture photograph",
+    "positive": "A modern minimalist black-clad cabin on a forested hillside in Norway, large picture window glowing warm at dusk, moss and boulders in foreground, photographed on a slightly overcast evening",
+    "negative": "watermark, text, cartoon, over-hdr, oversaturated"
+  },
+  {
+    "slug": "ai_architecture_alley",
+    "category": "architecture",
+    "workflow": "realism",
+    "aspect": "2:3",
+    "caption": "AI-generated — Z-Image architecture photograph",
+    "positive": "Narrow cobblestone alley in Lisbon at dusk, pastel-painted buildings with laundry strung between windows, a small hand-painted tile street sign on a wall reading \"Rua da Saudade\", a single cat on a doorstep, warm glow from a streetlamp, light mist on the cobblestones",
+    "negative": "watermark, cartoon, over-hdr, painterly, garbled text"
+  },
+  {
+    "slug": "ai_storefront_bookshop",
+    "category": "architecture",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated — Z-Image storefront photograph",
+    "positive": "A charming independent bookshop storefront on a cobbled English lane, painted wooden sign above the door that reads \"The Paper Lantern — Books & Maps\", bay window filled with arranged hardcovers, ivy growing around the window frame, soft overcast afternoon light",
+    "negative": "watermark, cartoon, illustration, garbled text, gibberish letters"
+  },
+
+  {
+    "slug": "ai_sports_cyclist",
+    "category": "sports",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated — Z-Image sports photograph",
+    "positive": "Action photograph of a road cyclist rounding a hairpin turn in the Alps, motion-blurred mountain background, sharp focus on the rider, sweat visible, team jersey, 200mm lens with panning technique",
+    "negative": "watermark, text, cartoon, illustration, oversaturated"
+  },
+  {
+    "slug": "ai_sports_surfer",
+    "category": "sports",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated — Z-Image sports photograph",
+    "positive": "Surfer inside a breaking wave, golden late afternoon sunlight backlighting the spray, water droplets frozen mid-air, 600mm lens from the shore",
+    "negative": "watermark, text, cartoon, illustration, oversaturated"
+  },
+
+  {
+    "slug": "ai_vehicle_oldcar",
+    "category": "vehicle",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated — Z-Image vehicle photograph",
+    "positive": "A weathered 1960s pickup truck abandoned in a field of tall grass, rust patina on the hood, one flat tire, a faded painted sign on the door that reads \"Miller & Sons — Est. 1952\", late afternoon sun casting long shadows, shot on medium format film with natural grain",
+    "negative": "watermark, cartoon, illustration, oversaturated, glossy, garbled text"
+  },
+  {
+    "slug": "ai_vehicle_train",
+    "category": "vehicle",
+    "workflow": "realism",
+    "aspect": "16:9",
+    "caption": "AI-generated — Z-Image vehicle photograph",
+    "positive": "Steam locomotive crossing a tall stone viaduct in misty Highland scenery, dramatic plume of steam trailing behind, overcast day with diffused light, telephoto compression",
+    "negative": "watermark, text, cartoon, illustration, oversaturated"
+  },
+
+  {
+    "slug": "ai_astro_milkyway",
+    "category": "astronomy",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated — Z-Image astrophotography",
+    "positive": "Milky Way core arching above a silhouetted desert arch in Utah, thousands of stars visible, faint red airglow on horizon, 14mm wide-angle lens, long exposure",
+    "negative": "watermark, text, cartoon, illustration, oversaturated, color bands"
+  },
+  {
+    "slug": "ai_astro_aurora",
+    "category": "astronomy",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated — Z-Image astrophotography",
+    "positive": "Aurora borealis rippling green and magenta above a frozen Norwegian fjord, isolated cabin with one lit window on the shore, stars visible through the aurora, 14mm wide-angle",
+    "negative": "watermark, text, cartoon, illustration, oversaturated"
+  },
+
+  {
+    "slug": "ai_street_tokyo",
+    "category": "street",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated — Z-Image street photograph",
+    "positive": "Neon-lit Tokyo backstreet in the rain at night, a vertical neon sign reading \"RAMEN\" in red glowing letters on the left, smaller illuminated sign below reading \"OPEN\", reflections in puddles, salaryman under a transparent umbrella, handheld 35mm street photography with slight motion blur, Fujifilm color look",
+    "negative": "watermark, cartoon, illustration, overdone neon, garbled text, gibberish letters"
+  },
+  {
+    "slug": "ai_street_diner",
+    "category": "street",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated — Z-Image street photograph",
+    "positive": "An American roadside diner at dusk, a large red neon sign on the roof reads \"JOE'S DINER — OPEN 24 HRS\", chrome trim reflecting the last light of sunset, empty parking lot with one classic car, cinematic 50mm shot",
+    "negative": "watermark, cartoon, illustration, garbled text, gibberish"
+  },
+  {
+    "slug": "ai_street_market",
+    "category": "street",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated — Z-Image street photograph",
+    "positive": "Busy spice market in Marrakech, pyramids of colored spices in the foreground, vendor chatting with a customer in soft focus, warm tungsten overhead lighting, 35mm documentary style",
+    "negative": "watermark, text, cartoon, oversaturated"
+  },
+
+  {
+    "slug": "ai_art_impressionist_harbor",
+    "category": "art-impressionist",
+    "workflow": "art",
+    "aspect": "3:2",
+    "caption": "AI-generated — Z-Image painting pastiche",
+    "positive": "Impressionist oil painting of a small fishing harbor at dawn, visible loose brushstrokes, broken color technique, pale pink and lavender sky reflecting in rippling water, boats as blocks of color, canvas texture visible, in the style of late 19th century French impressionism",
+    "negative": "watermark, text, photograph, photorealistic, 3d render, digital art"
+  },
+  {
+    "slug": "ai_art_postimpressionist_field",
+    "category": "art-postimpressionist",
+    "workflow": "art",
+    "aspect": "3:2",
+    "caption": "AI-generated — Z-Image painting pastiche",
+    "positive": "Post-impressionist oil painting of a wheat field under a swirling sky, thick expressive brushstrokes of impasto paint, bold yellows and deep blues, a single crooked cypress tree, visible canvas weave",
+    "negative": "watermark, text, photograph, photorealistic, 3d render"
+  },
+  {
+    "slug": "ai_art_ukiyoe_mountain",
+    "category": "art-ukiyoe",
+    "workflow": "art",
+    "aspect": "3:2",
+    "caption": "AI-generated — Z-Image painting pastiche",
+    "positive": "Traditional Japanese ukiyo-e woodblock print of a snowy mountain and pine trees, flat color fields, bold outlines, mist rolling through the valley, aged paper texture with slight discoloration",
+    "negative": "watermark, text, photograph, photorealistic, 3d render, modern digital art"
+  },
+  {
+    "slug": "ai_art_renaissance_portrait",
+    "category": "art-renaissance",
+    "workflow": "art",
+    "aspect": "2:3",
+    "caption": "AI-generated — Z-Image painting pastiche",
+    "positive": "Renaissance oil portrait of a young noblewoman holding a book, soft sfumato modeling, subdued earth-tone palette, dark neutral background, intricate embroidery on her dress, cracked varnish and canvas texture",
+    "negative": "watermark, text, photograph, photorealistic, 3d render, modern"
+  },
+  {
+    "slug": "ai_art_dutch_still_life",
+    "category": "art-stillife",
+    "workflow": "art",
+    "aspect": "1:1",
+    "caption": "AI-generated — Z-Image painting pastiche",
+    "positive": "17th century Dutch still life oil painting of fruit and a pewter goblet on a dark table, dramatic chiaroscuro lighting, translucent grapes, peeled lemon with curling rind, hint of dust particles, aged varnish",
+    "negative": "watermark, text, photograph, photorealistic, 3d render"
+  },
+  {
+    "slug": "ai_art_watercolor_cottage",
+    "category": "art-watercolor",
+    "workflow": "art",
+    "aspect": "3:2",
+    "caption": "AI-generated — Z-Image painting pastiche",
+    "positive": "Loose watercolor painting of a Cotswolds stone cottage with climbing roses and a thatched roof, pigments bleeding into wet paper, visible paper texture, pencil underdrawing showing through in places",
+    "negative": "watermark, text, photograph, photorealistic, 3d render, sharp digital edges"
+  },
+  {
+    "slug": "ai_art_abstract_expressionist",
+    "category": "art-abstract",
+    "workflow": "art",
+    "aspect": "1:1",
+    "caption": "AI-generated — Z-Image painting pastiche",
+    "positive": "Mid-20th century abstract expressionist oil painting, dripped and splattered white and cadmium red over black, visible drip patterns on a large canvas, studio floor paint spatter, gestural energy",
+    "negative": "watermark, text, photograph, photorealistic, 3d render, clean digital"
+  }
+]

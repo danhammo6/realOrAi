@@ -1,0 +1,7 @@
+.DS_Store
+.idea/
+
+# Python virtualenv (recreate with `uv venv tools/.venv`)
+tools/.venv/
+__pycache__/
+*.pyc
