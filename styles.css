@@ -1,0 +1,199 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background: linear-gradient(135deg, #1e1e2e 0%, #2a2a40 100%);
+  color: #f0f0f0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app {
+  flex: 1;
+  max-width: 720px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin: 0;
+  background: linear-gradient(90deg, #8a7fff, #ff7fb5);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.subtitle {
+  color: #b0b0c0;
+  margin: 0.5rem 0 0;
+}
+
+.screen {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 16px;
+  padding: 2rem;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.hidden {
+  display: none;
+}
+
+.hud {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+  font-weight: 600;
+  color: #b0b0c0;
+}
+
+.image-wrap {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  background: #0f0f18;
+  border-radius: 12px;
+  overflow: hidden;
+  margin-bottom: 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#game-image {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+.loading {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #8080a0;
+  font-size: 1rem;
+}
+
+.choices {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.btn {
+  font-size: 1.1rem;
+  font-weight: 600;
+  padding: 1rem 1.5rem;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: transform 0.1s, background 0.2s;
+  font-family: inherit;
+  color: white;
+}
+
+.btn:hover {
+  transform: translateY(-2px);
+}
+
+.btn:active {
+  transform: translateY(0);
+}
+
+.btn:disabled {
+  cursor: not-allowed;
+  opacity: 0.6;
+  transform: none;
+}
+
+.btn-primary {
+  background: linear-gradient(90deg, #6a5fff, #d65fb0);
+  display: block;
+  margin: 1rem auto 0;
+  min-width: 200px;
+}
+
+.btn-choice {
+  background: #3a3a55;
+}
+
+.btn-choice:hover {
+  background: #4a4a70;
+}
+
+.btn-choice.correct {
+  background: #3fae6a;
+}
+
+.btn-choice.wrong {
+  background: #d04a5f;
+}
+
+.feedback {
+  margin-top: 1.25rem;
+  padding: 1rem;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 10px;
+  text-align: center;
+}
+
+.feedback p {
+  margin: 0.25rem 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.feedback .caption {
+  font-weight: 400;
+  color: #b0b0c0;
+  font-size: 0.9rem;
+}
+
+#feedback-text.correct {
+  color: #6fdb98;
+}
+
+#feedback-text.wrong {
+  color: #ff8a9f;
+}
+
+.final-score {
+  font-size: 3rem;
+  text-align: center;
+  font-weight: 700;
+  margin: 1rem 0;
+}
+
+#end-screen {
+  text-align: center;
+}
+
+#end-screen h2 {
+  margin-top: 0;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  color: #70708a;
+  font-size: 0.85rem;
+}
+
+@media (max-width: 500px) {
+  h1 { font-size: 1.8rem; }
+  .screen { padding: 1.25rem; }
+}
