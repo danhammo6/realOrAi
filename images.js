@@ -50,4 +50,40 @@ const IMAGES = [
   { src: "images/real/monet_sunrise.jpg",    isAI: false, alt: "Impression, Sunrise",        caption: "Real — Monet, 'Impression, Sunrise' (1872)" },
   { src: "images/real/birth_of_venus.jpg",   isAI: false, alt: "The Birth of Venus",         caption: "Real — Botticelli, 'The Birth of Venus' (c. 1485)" },
   { src: "images/real/tower_babel.jpg",      isAI: false, alt: "Tower of Babel",             caption: "Real — Bruegel, 'The Tower of Babel' (1563)" },
+
+  // ========== Real — architecture & places ==========
+  { src: "images/real/antwerp_station.jpg",   isAI: false, alt: "Antwerp Central Station", caption: "Real photo — Antwerp Central Station" },
+  { src: "images/real/atomium.jpg",           isAI: false, alt: "Atomium",                 caption: "Real photo — Atomium, Brussels" },
+  { src: "images/real/scar_house_dam.jpg",    isAI: false, alt: "Reservoir dam",           caption: "Real photo — Scar House Reservoir Dam, UK" },
+  { src: "images/real/santorini.jpg",         isAI: false, alt: "Santorini",               caption: "Real photo — Santorini, Greece" },
+  { src: "images/real/chefchaouen.jpg",       isAI: false, alt: "Chefchaouen blue city",   caption: "Real photo — Chefchaouen, Morocco" },
+  { src: "images/real/ferris_wheel.jpg",      isAI: false, alt: "Ferris wheel",            caption: "Real photo — Daikanransha Ferris wheel, Tokyo" },
+  { src: "images/real/brooklyn_garden.jpg",   isAI: false, alt: "Brooklyn Botanic Garden", caption: "Real photo — Brooklyn Botanic Garden" },
+  { src: "images/real/belem_docas.jpg",       isAI: false, alt: "Belém, Brazil",           caption: "Real photo — Belém, Brazil" },
+  { src: "images/real/brighton_pier.jpg",     isAI: false, alt: "Brighton West Pier",      caption: "Real photo — Brighton West Pier, UK" },
+  { src: "images/real/duisburg_park.jpg",     isAI: false, alt: "Industrial park",         caption: "Real photo — Landschaftspark Duisburg-Nord" },
+
+  // ========== Real — nature & wildlife ==========
+  { src: "images/real/kagu_bird.jpg",         isAI: false, alt: "Kagu bird",               caption: "Real photo — Kagu bird" },
+  { src: "images/real/tropicbird.jpg",        isAI: false, alt: "Tropicbird",              caption: "Real photo — Red-billed tropicbird" },
+  { src: "images/real/mantis_nymph.jpg",      isAI: false, alt: "Mantis nymph",            caption: "Real photo — Chinese mantis nymph" },
+  { src: "images/real/wheelbug_wasp.jpg",     isAI: false, alt: "Wheel bug and wasp",      caption: "Real photo — wheel bug and paper wasp" },
+  { src: "images/real/goose_feather_dew.jpg", isAI: false, alt: "Feather with dew",        caption: "Real photo — goose feather with dew" },
+  { src: "images/real/sunrise_field.jpg",     isAI: false, alt: "Sunrise over field",      caption: "Real photo — sunrise over field" },
+  { src: "images/real/salar_uyuni.jpg",       isAI: false, alt: "Salar de Uyuni",          caption: "Real photo — Salar de Uyuni, Bolivia" },
+
+  // ========== Real — astronomy ==========
+  { src: "images/real/deep_sky.jpg",          isAI: false, alt: "Deep sky",                caption: "Real photo — deep-sky astrophotography" },
+  { src: "images/real/moonlight.jpg",         isAI: false, alt: "Moonlight",               caption: "Real photo — moonlight" },
+
+  // ========== Real — people & sports ==========
+  { src: "images/real/climbing.jpg",          isAI: false, alt: "Climber",                 caption: "Real photo — Climbing World Championships 2018" },
+  { src: "images/real/crack_climbing.jpg",    isAI: false, alt: "Crack climbing",          caption: "Real photo — crack climbing, Indian Creek, Utah" },
+  { src: "images/real/swim_butterfly.jpg",    isAI: false, alt: "Butterfly stroke",        caption: "Real photo — competitive swimming, butterfly" },
+  { src: "images/real/gymnastics.jpg",        isAI: false, alt: "Olympic gymnastics",      caption: "Real photo — Olympic gymnastics, Rio 2016" },
+  { src: "images/real/tractor_laos.jpg",      isAI: false, alt: "Tractor at sunset",       caption: "Real photo — farmer plowing at sunset, Laos" },
+
+  // ========== Real — vehicles / industry ==========
+  { src: "images/real/bulldozer.jpg",         isAI: false, alt: "Bulldozer",               caption: "Real photo — Komatsu bulldozer at power plant" },
+  { src: "images/real/horse_sleighs.jpg",     isAI: false, alt: "Horse-drawn sleighs",     caption: "Real photo — horse-drawn sleighs" },
 ];
