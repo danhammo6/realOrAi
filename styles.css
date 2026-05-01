@@ -197,6 +197,21 @@ h1 {
   margin-top: 0;
 }
 
+.progress-line {
+  color: #8080a0;
+  font-size: 0.9rem;
+  margin-top: 1rem;
+}
+
+.reset-link {
+  color: #8a7fff;
+  text-decoration: none;
+}
+
+.reset-link:hover {
+  text-decoration: underline;
+}
+
 footer {
   text-align: center;
   padding: 1rem;

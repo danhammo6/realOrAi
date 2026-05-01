@@ -2,6 +2,8 @@
 
 A simple browser game: can you tell a real photo from an AI-generated image?
 
+**Play it here:** https://danhammo6.github.io/realOrAi
+
 ## Run locally
 
 Just open `index.html` in a browser — or for best results run a tiny local server (some browsers block local file `fetch`/image loads):

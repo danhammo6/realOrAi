@@ -1,5 +1,23 @@
 (function () {
   const ROUNDS_PER_GAME = 12;
+  const STORAGE_KEY = 'realOrAi.seen.v1';
+
+  function loadSeen() {
+    try {
+      const raw = localStorage.getItem(STORAGE_KEY);
+      return new Set(raw ? JSON.parse(raw) : []);
+    } catch {
+      return new Set();
+    }
+  }
+
+  function saveSeen(set) {
+    try {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify([...set]));
+    } catch {}
+  }
+
+  let seen = loadSeen();
 
   const startScreen = document.getElementById('start-screen');
   const gameScreen = document.getElementById('game-screen');
@@ -41,21 +59,45 @@
     screen.classList.remove('hidden');
   }
 
+  function pickUnseen(pool, want) {
+    // Prefer unseen items; if pool exhausted, reset that pool's seen entries and refill.
+    const unseen = pool.filter(i => !seen.has(i.src));
+    if (unseen.length >= want) return shuffle(unseen).slice(0, want);
+
+    // Exhausted: take what's left unseen, then top up from items we've seen before
+    // (after clearing just this pool's seen entries so the cycle restarts cleanly).
+    const leftover = shuffle(unseen);
+    pool.forEach(i => seen.delete(i.src));
+    const refill = shuffle(pool.filter(i => !leftover.includes(i))).slice(0, want - leftover.length);
+    return leftover.concat(refill);
+  }
+
   function startGame() {
-    const ai = shuffle(IMAGES.filter(i => i.isAI));
-    const real = shuffle(IMAGES.filter(i => !i.isAI));
+    const aiPool = IMAGES.filter(i => i.isAI);
+    const realPool = IMAGES.filter(i => !i.isAI);
     const half = Math.floor(ROUNDS_PER_GAME / 2);
-    const aiCount = Math.min(half, ai.length);
-    const realCount = Math.min(ROUNDS_PER_GAME - aiCount, real.length);
-    const total = aiCount + realCount;
-    deck = shuffle(ai.slice(0, aiCount).concat(real.slice(0, realCount)));
+    const aiCount = Math.min(half, aiPool.length);
+    const realCount = Math.min(ROUNDS_PER_GAME - aiCount, realPool.length);
+    deck = shuffle(pickUnseen(aiPool, aiCount).concat(pickUnseen(realPool, realCount)));
     roundIndex = 0;
     score = 0;
     scoreEl.textContent = '0';
-    roundTotalEl.textContent = total;
-    finalTotalEl.textContent = total;
+    roundTotalEl.textContent = deck.length;
+    finalTotalEl.textContent = deck.length;
+    updateSeenBadge();
     showScreen(gameScreen);
     loadRound();
+  }
+
+  function updateSeenBadge() {
+    const badge = document.getElementById('seen-count');
+    if (badge) badge.textContent = `${seen.size} / ${IMAGES.length} images seen`;
+  }
+
+  function resetProgress() {
+    seen = new Set();
+    saveSeen(seen);
+    updateSeenBadge();
   }
 
   function loadRound() {
@@ -85,6 +127,10 @@
   function handleChoice(guessIsAI) {
     const item = deck[roundIndex];
     const correct = guessIsAI === item.isAI;
+
+    seen.add(item.src);
+    saveSeen(seen);
+    updateSeenBadge();
 
     chooseRealBtn.disabled = true;
     chooseAiBtn.disabled = true;
@@ -135,4 +181,16 @@
   chooseRealBtn.addEventListener('click', () => handleChoice(false));
   chooseAiBtn.addEventListener('click', () => handleChoice(true));
   nextBtn.addEventListener('click', nextRound);
+
+  const resetBtn = document.getElementById('reset-btn');
+  if (resetBtn) {
+    resetBtn.addEventListener('click', (e) => {
+      e.preventDefault();
+      if (confirm('Reset progress? You\'ll start seeing images you\'ve already answered.')) {
+        resetProgress();
+      }
+    });
+  }
+
+  updateSeenBadge();
 })();
