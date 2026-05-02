@@ -4,7 +4,7 @@
     "category": "portrait",
     "workflow": "realism",
     "aspect": "2:3",
-    "caption": "AI-generated — Z-Image photorealistic portrait",
+    "caption": "AI-generated \u2014 Z-Image photorealistic portrait",
     "positive": "Candid portrait photograph of an older farmer in a flannel shirt, weathered face and calloused hands, standing in a barn doorway, natural window light from the side, shot on 85mm lens, shallow depth of field, muted earth tones, slight film grain",
     "negative": "watermark, text, oversaturated, cartoon, illustration, plastic skin, waxy, smooth airbrushed, symmetrical"
   },
@@ -13,7 +13,7 @@
     "category": "portrait",
     "workflow": "realism",
     "aspect": "2:3",
-    "caption": "AI-generated — Z-Image photorealistic portrait",
+    "caption": "AI-generated \u2014 Z-Image photorealistic portrait",
     "positive": "Documentary-style photograph of a young girl at an outdoor market in Vietnam, eating a mango, warm afternoon light, 50mm lens, natural skin texture with freckles and flyaway hair, background softly out of focus with colorful fabrics",
     "negative": "watermark, text, cartoon, plastic skin, airbrushed, perfect symmetry, extra fingers"
   },
@@ -22,17 +22,16 @@
     "category": "portrait",
     "workflow": "realism",
     "aspect": "3:2",
-    "caption": "AI-generated — Z-Image photorealistic portrait",
+    "caption": "AI-generated \u2014 Z-Image photorealistic portrait",
     "positive": "Environmental portrait of a jazz saxophonist on a dim club stage, mid-performance, stage light creating rim light on his shoulders, dust motes visible in the air, 35mm lens at f/2, grainy Kodak Portra 800 film look",
     "negative": "watermark, text, cartoon, oversaturated, over-sharpened, hdr look"
   },
-
   {
     "slug": "ai_landscape_coast",
     "category": "landscape",
     "workflow": "realism",
     "aspect": "16:9",
-    "caption": "AI-generated — Z-Image landscape",
+    "caption": "AI-generated \u2014 Z-Image landscape",
     "positive": "Wide-angle landscape photograph of a rocky Pacific coast at dawn, long-exposure ocean smoothing the surf, low fog rolling between sea stacks, pale salmon sky with scattered clouds, 24mm lens, tripod shot",
     "negative": "watermark, text, cartoon, oversaturated, painterly, blurry"
   },
@@ -41,7 +40,7 @@
     "category": "landscape",
     "workflow": "realism",
     "aspect": "16:9",
-    "caption": "AI-generated — Z-Image landscape",
+    "caption": "AI-generated \u2014 Z-Image landscape",
     "positive": "Sand dunes in the Namib desert at sunrise, long sinuous shadows across the ridges, single set of footprints, deep orange sand against pale blue sky, shot on medium format",
     "negative": "watermark, text, illustration, cartoon, oversaturated, painterly"
   },
@@ -50,17 +49,16 @@
     "category": "landscape",
     "workflow": "realism",
     "aspect": "3:2",
-    "caption": "AI-generated — Z-Image landscape",
+    "caption": "AI-generated \u2014 Z-Image landscape",
     "positive": "A narrow backroad winding through New England in peak autumn, red maples and yellow birches overhead forming a tunnel, morning mist, wet asphalt reflecting color, photographed on overcast day with soft diffuse light",
     "negative": "watermark, text, cartoon, oversaturated, hdr look"
   },
-
   {
     "slug": "ai_food_ramen",
     "category": "food",
     "workflow": "realism",
     "aspect": "1:1",
-    "caption": "AI-generated — Z-Image food photograph",
+    "caption": "AI-generated \u2014 Z-Image food photograph",
     "positive": "Overhead photograph of a bowl of tonkotsu ramen on a dark wooden table, soft-boiled egg halved to show runny yolk, scallions and nori, chopsticks resting across the bowl, steam rising, natural window light from one side",
     "negative": "watermark, text, cartoon, plastic food, over-saturated, unnatural colors"
   },
@@ -69,7 +67,7 @@
     "category": "food",
     "workflow": "realism",
     "aspect": "3:2",
-    "caption": "AI-generated — Z-Image food photograph",
+    "caption": "AI-generated \u2014 Z-Image food photograph",
     "positive": "A rustic breakfast spread photographed from a 45-degree angle: sourdough toast, poached eggs, crispy bacon, roasted tomatoes on vine, small jar of orange marmalade, linen napkin, natural morning light through sheer curtains",
     "negative": "watermark, text, cartoon, plastic, neon colors, oversaturated"
   },
@@ -78,7 +76,7 @@
     "category": "food",
     "workflow": "realism",
     "aspect": "1:1",
-    "caption": "AI-generated — Z-Image food photograph",
+    "caption": "AI-generated \u2014 Z-Image food photograph",
     "positive": "Close-up of a wicker basket at a farmers market filled with heirloom tomatoes of assorted colors and shapes, dew on the skins, a small handwritten chalkboard sign propped in the basket that reads \"HEIRLOOM $4/lb\", soft overcast light",
     "negative": "watermark, cartoon, plastic, neon, over-sharpened, garbled text, misspelled letters"
   },
@@ -87,17 +85,16 @@
     "category": "food",
     "workflow": "realism",
     "aspect": "3:2",
-    "caption": "AI-generated — Z-Image food photograph",
-    "positive": "A French bakery window at dawn, croissants and pain au chocolat arranged on wooden trays, a small chalkboard in the window reads \"Boulangerie — ouvert 6h\", condensation on the glass, soft blue hour light outside",
+    "caption": "AI-generated \u2014 Z-Image food photograph",
+    "positive": "A French bakery window at dawn, croissants and pain au chocolat arranged on wooden trays, a small chalkboard in the window reads \"Boulangerie \u2014 ouvert 6h\", condensation on the glass, soft blue hour light outside",
     "negative": "watermark, cartoon, plastic, oversaturated, garbled text"
   },
-
   {
     "slug": "ai_animal_fox",
     "category": "wildlife",
     "workflow": "realism",
     "aspect": "3:2",
-    "caption": "AI-generated — Z-Image wildlife photograph",
+    "caption": "AI-generated \u2014 Z-Image wildlife photograph",
     "positive": "Red fox standing alert in a snowy meadow at blue hour, breath visible in the cold air, individual whiskers and guard hairs visible, shallow depth of field, 400mm telephoto lens",
     "negative": "watermark, text, cartoon, oversaturated, illustration, toy-like"
   },
@@ -106,7 +103,7 @@
     "category": "wildlife",
     "workflow": "realism",
     "aspect": "2:3",
-    "caption": "AI-generated — Z-Image wildlife photograph",
+    "caption": "AI-generated \u2014 Z-Image wildlife photograph",
     "positive": "Scarlet macaw perched on a mossy branch in the Amazon, feather detail sharp, jungle background completely blurred, diffused morning light, 300mm prime lens",
     "negative": "watermark, text, cartoon, illustration, oversaturated, toy-like"
   },
@@ -115,17 +112,16 @@
     "category": "wildlife",
     "workflow": "realism",
     "aspect": "1:1",
-    "caption": "AI-generated — Z-Image wildlife photograph",
+    "caption": "AI-generated \u2014 Z-Image wildlife photograph",
     "positive": "Sea otter floating on its back in kelp holding a shell on its chest, wet fur detail, droplets of water on whiskers, soft overcast daylight, shot from water level",
     "negative": "watermark, text, cartoon, oversaturated, illustration"
   },
-
   {
     "slug": "ai_macro_butterfly",
     "category": "macro",
     "workflow": "realism",
     "aspect": "1:1",
-    "caption": "AI-generated — Z-Image macro photograph",
+    "caption": "AI-generated \u2014 Z-Image macro photograph",
     "positive": "Extreme macro photograph of a blue morpho butterfly wing showing individual iridescent scales, shallow depth of field, dark background, studio ring light, 5:1 magnification",
     "negative": "watermark, text, cartoon, illustration, painterly"
   },
@@ -134,17 +130,16 @@
     "category": "macro",
     "workflow": "realism",
     "aspect": "1:1",
-    "caption": "AI-generated — Z-Image macro photograph",
+    "caption": "AI-generated \u2014 Z-Image macro photograph",
     "positive": "Macro photograph of a dew drop on a blade of grass at sunrise, refracted tiny image of a flower visible inside the drop, background completely out of focus bokeh, early morning light",
     "negative": "watermark, text, cartoon, illustration, painterly"
   },
-
   {
     "slug": "ai_architecture_cathedral",
     "category": "architecture",
     "workflow": "realism",
     "aspect": "2:3",
-    "caption": "AI-generated — Z-Image architecture photograph",
+    "caption": "AI-generated \u2014 Z-Image architecture photograph",
     "positive": "Interior of a Gothic cathedral looking up a nave toward the apse, morning light streaming through stained glass onto stone columns, wide-angle tilt-shift lens, tourists visible in deep background for scale",
     "negative": "watermark, text, cartoon, over-hdr, oversaturated"
   },
@@ -153,7 +148,7 @@
     "category": "architecture",
     "workflow": "realism",
     "aspect": "3:2",
-    "caption": "AI-generated — Z-Image architecture photograph",
+    "caption": "AI-generated \u2014 Z-Image architecture photograph",
     "positive": "A modern minimalist black-clad cabin on a forested hillside in Norway, large picture window glowing warm at dusk, moss and boulders in foreground, photographed on a slightly overcast evening",
     "negative": "watermark, text, cartoon, over-hdr, oversaturated"
   },
@@ -162,7 +157,7 @@
     "category": "architecture",
     "workflow": "realism",
     "aspect": "2:3",
-    "caption": "AI-generated — Z-Image architecture photograph",
+    "caption": "AI-generated \u2014 Z-Image architecture photograph",
     "positive": "Narrow cobblestone alley in Lisbon at dusk, pastel-painted buildings with laundry strung between windows, a small hand-painted tile street sign on a wall reading \"Rua da Saudade\", a single cat on a doorstep, warm glow from a streetlamp, light mist on the cobblestones",
     "negative": "watermark, cartoon, over-hdr, painterly, garbled text"
   },
@@ -171,17 +166,16 @@
     "category": "architecture",
     "workflow": "realism",
     "aspect": "3:2",
-    "caption": "AI-generated — Z-Image storefront photograph",
-    "positive": "A charming independent bookshop storefront on a cobbled English lane, painted wooden sign above the door that reads \"The Paper Lantern — Books & Maps\", bay window filled with arranged hardcovers, ivy growing around the window frame, soft overcast afternoon light",
+    "caption": "AI-generated \u2014 Z-Image storefront photograph",
+    "positive": "A charming independent bookshop storefront on a cobbled English lane, painted wooden sign above the door that reads \"The Paper Lantern \u2014 Books & Maps\", bay window filled with arranged hardcovers, ivy growing around the window frame, soft overcast afternoon light",
     "negative": "watermark, cartoon, illustration, garbled text, gibberish letters"
   },
-
   {
     "slug": "ai_sports_cyclist",
     "category": "sports",
     "workflow": "realism",
     "aspect": "3:2",
-    "caption": "AI-generated — Z-Image sports photograph",
+    "caption": "AI-generated \u2014 Z-Image sports photograph",
     "positive": "Action photograph of a road cyclist rounding a hairpin turn in the Alps, motion-blurred mountain background, sharp focus on the rider, sweat visible, team jersey, 200mm lens with panning technique",
     "negative": "watermark, text, cartoon, illustration, oversaturated"
   },
@@ -190,18 +184,17 @@
     "category": "sports",
     "workflow": "realism",
     "aspect": "3:2",
-    "caption": "AI-generated — Z-Image sports photograph",
+    "caption": "AI-generated \u2014 Z-Image sports photograph",
     "positive": "Surfer inside a breaking wave, golden late afternoon sunlight backlighting the spray, water droplets frozen mid-air, 600mm lens from the shore",
     "negative": "watermark, text, cartoon, illustration, oversaturated"
   },
-
   {
     "slug": "ai_vehicle_oldcar",
     "category": "vehicle",
     "workflow": "realism",
     "aspect": "3:2",
-    "caption": "AI-generated — Z-Image vehicle photograph",
-    "positive": "A weathered 1960s pickup truck abandoned in a field of tall grass, rust patina on the hood, one flat tire, a faded painted sign on the door that reads \"Miller & Sons — Est. 1952\", late afternoon sun casting long shadows, shot on medium format film with natural grain",
+    "caption": "AI-generated \u2014 Z-Image vehicle photograph",
+    "positive": "A weathered 1960s pickup truck abandoned in a field of tall grass, rust patina on the hood, one flat tire, a faded painted sign on the door that reads \"Miller & Sons \u2014 Est. 1952\", late afternoon sun casting long shadows, shot on medium format film with natural grain",
     "negative": "watermark, cartoon, illustration, oversaturated, glossy, garbled text"
   },
   {
@@ -209,17 +202,16 @@
     "category": "vehicle",
     "workflow": "realism",
     "aspect": "16:9",
-    "caption": "AI-generated — Z-Image vehicle photograph",
+    "caption": "AI-generated \u2014 Z-Image vehicle photograph",
     "positive": "Steam locomotive crossing a tall stone viaduct in misty Highland scenery, dramatic plume of steam trailing behind, overcast day with diffused light, telephoto compression",
     "negative": "watermark, text, cartoon, illustration, oversaturated"
   },
-
   {
     "slug": "ai_astro_milkyway",
     "category": "astronomy",
     "workflow": "realism",
     "aspect": "3:2",
-    "caption": "AI-generated — Z-Image astrophotography",
+    "caption": "AI-generated \u2014 Z-Image astrophotography",
     "positive": "Milky Way core arching above a silhouetted desert arch in Utah, thousands of stars visible, faint red airglow on horizon, 14mm wide-angle lens, long exposure",
     "negative": "watermark, text, cartoon, illustration, oversaturated, color bands"
   },
@@ -228,17 +220,16 @@
     "category": "astronomy",
     "workflow": "realism",
     "aspect": "3:2",
-    "caption": "AI-generated — Z-Image astrophotography",
+    "caption": "AI-generated \u2014 Z-Image astrophotography",
     "positive": "Aurora borealis rippling green and magenta above a frozen Norwegian fjord, isolated cabin with one lit window on the shore, stars visible through the aurora, 14mm wide-angle",
     "negative": "watermark, text, cartoon, illustration, oversaturated"
   },
-
   {
     "slug": "ai_street_tokyo",
     "category": "street",
     "workflow": "realism",
     "aspect": "3:2",
-    "caption": "AI-generated — Z-Image street photograph",
+    "caption": "AI-generated \u2014 Z-Image street photograph",
     "positive": "Neon-lit Tokyo backstreet in the rain at night, a vertical neon sign reading \"RAMEN\" in red glowing letters on the left, smaller illuminated sign below reading \"OPEN\", reflections in puddles, salaryman under a transparent umbrella, handheld 35mm street photography with slight motion blur, Fujifilm color look",
     "negative": "watermark, cartoon, illustration, overdone neon, garbled text, gibberish letters"
   },
@@ -247,8 +238,8 @@
     "category": "street",
     "workflow": "realism",
     "aspect": "3:2",
-    "caption": "AI-generated — Z-Image street photograph",
-    "positive": "An American roadside diner at dusk, a large red neon sign on the roof reads \"JOE'S DINER — OPEN 24 HRS\", chrome trim reflecting the last light of sunset, empty parking lot with one classic car, cinematic 50mm shot",
+    "caption": "AI-generated \u2014 Z-Image street photograph",
+    "positive": "An American roadside diner at dusk, a large red neon sign on the roof reads \"JOE'S DINER \u2014 OPEN 24 HRS\", chrome trim reflecting the last light of sunset, empty parking lot with one classic car, cinematic 50mm shot",
     "negative": "watermark, cartoon, illustration, garbled text, gibberish"
   },
   {
@@ -256,17 +247,16 @@
     "category": "street",
     "workflow": "realism",
     "aspect": "3:2",
-    "caption": "AI-generated — Z-Image street photograph",
+    "caption": "AI-generated \u2014 Z-Image street photograph",
     "positive": "Busy spice market in Marrakech, pyramids of colored spices in the foreground, vendor chatting with a customer in soft focus, warm tungsten overhead lighting, 35mm documentary style",
     "negative": "watermark, text, cartoon, oversaturated"
   },
-
   {
     "slug": "ai_art_impressionist_harbor",
     "category": "art-impressionist",
     "workflow": "art",
     "aspect": "3:2",
-    "caption": "AI-generated — Z-Image painting pastiche",
+    "caption": "AI-generated \u2014 Z-Image painting pastiche",
     "positive": "Impressionist oil painting of a small fishing harbor at dawn, visible loose brushstrokes, broken color technique, pale pink and lavender sky reflecting in rippling water, boats as blocks of color, canvas texture visible, in the style of late 19th century French impressionism",
     "negative": "watermark, text, photograph, photorealistic, 3d render, digital art"
   },
@@ -275,7 +265,7 @@
     "category": "art-postimpressionist",
     "workflow": "art",
     "aspect": "3:2",
-    "caption": "AI-generated — Z-Image painting pastiche",
+    "caption": "AI-generated \u2014 Z-Image painting pastiche",
     "positive": "Post-impressionist oil painting of a wheat field under a swirling sky, thick expressive brushstrokes of impasto paint, bold yellows and deep blues, a single crooked cypress tree, visible canvas weave",
     "negative": "watermark, text, photograph, photorealistic, 3d render"
   },
@@ -284,7 +274,7 @@
     "category": "art-ukiyoe",
     "workflow": "art",
     "aspect": "3:2",
-    "caption": "AI-generated — Z-Image painting pastiche",
+    "caption": "AI-generated \u2014 Z-Image painting pastiche",
     "positive": "Traditional Japanese ukiyo-e woodblock print of a snowy mountain and pine trees, flat color fields, bold outlines, mist rolling through the valley, aged paper texture with slight discoloration",
     "negative": "watermark, text, photograph, photorealistic, 3d render, modern digital art"
   },
@@ -293,7 +283,7 @@
     "category": "art-renaissance",
     "workflow": "art",
     "aspect": "2:3",
-    "caption": "AI-generated — Z-Image painting pastiche",
+    "caption": "AI-generated \u2014 Z-Image painting pastiche",
     "positive": "Renaissance oil portrait of a young noblewoman holding a book, soft sfumato modeling, subdued earth-tone palette, dark neutral background, intricate embroidery on her dress, cracked varnish and canvas texture",
     "negative": "watermark, text, photograph, photorealistic, 3d render, modern"
   },
@@ -302,7 +292,7 @@
     "category": "art-stillife",
     "workflow": "art",
     "aspect": "1:1",
-    "caption": "AI-generated — Z-Image painting pastiche",
+    "caption": "AI-generated \u2014 Z-Image painting pastiche",
     "positive": "17th century Dutch still life oil painting of fruit and a pewter goblet on a dark table, dramatic chiaroscuro lighting, translucent grapes, peeled lemon with curling rind, hint of dust particles, aged varnish",
     "negative": "watermark, text, photograph, photorealistic, 3d render"
   },
@@ -311,7 +301,7 @@
     "category": "art-watercolor",
     "workflow": "art",
     "aspect": "3:2",
-    "caption": "AI-generated — Z-Image painting pastiche",
+    "caption": "AI-generated \u2014 Z-Image painting pastiche",
     "positive": "Loose watercolor painting of a Cotswolds stone cottage with climbing roses and a thatched roof, pigments bleeding into wet paper, visible paper texture, pencil underdrawing showing through in places",
     "negative": "watermark, text, photograph, photorealistic, 3d render, sharp digital edges"
   },
@@ -320,8 +310,458 @@
     "category": "art-abstract",
     "workflow": "art",
     "aspect": "1:1",
-    "caption": "AI-generated — Z-Image painting pastiche",
+    "caption": "AI-generated \u2014 Z-Image painting pastiche",
     "positive": "Mid-20th century abstract expressionist oil painting, dripped and splattered white and cadmium red over black, visible drip patterns on a large canvas, studio floor paint spatter, gestural energy",
     "negative": "watermark, text, photograph, photorealistic, 3d render, clean digital"
+  },
+  {
+    "slug": "ai_interior_kitchen",
+    "category": "interior",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image interior photograph",
+    "positive": "A bright modern kitchen is photographed from the doorway with a 24mm wide-angle lens at f/5.6, so both the marble countertop in the foreground and the window above the sink in the background stay in focus. Morning sunlight streams in from the east-facing window and falls across the counter in a sharp diagonal band, lighting a half-cut lemon and a small wooden cutting board. The stainless steel refrigerator on the right wall reflects the window as a warped rectangle of light, distorted by a small dent in its door. Pale grey cabinets run along the left wall, with a tea towel hanging from one of the lower drawer handles. The overall look is that of a real estate listing photograph, slightly cluttered rather than staged.",
+    "negative": "watermark, cartoon, illustration, oversaturated, hdr look, garbled text, warped perspective, crooked cabinets, floating objects"
+  },
+  {
+    "slug": "ai_interior_library",
+    "category": "interior",
+    "workflow": "realism",
+    "aspect": "2:3",
+    "caption": "AI-generated \u2014 Z-Image interior photograph",
+    "positive": "This is the interior of a cozy home library shot on a 35mm lens at f/2.8. Floor-to-ceiling oak bookshelves line both side walls and are filled with mismatched hardcovers and paperbacks leaning against each other at slight angles. Against the far wall between the shelves is a tall window, and afternoon sunlight pours through it in visible shafts, catching dust motes suspended in the air. A heavy wooden writing desk sits in front of the window with a green-glass banker's lamp switched on, even though it is daytime. An overstuffed brown leather armchair with a cracked seat cushion sits to the right of the desk, angled toward the shelves. A single open book lies face-down on the armrest.",
+    "negative": "watermark, cartoon, illustration, oversaturated, warped books, illegible spines, garbled text, floating objects"
+  },
+  {
+    "slug": "ai_interior_livingroom",
+    "category": "interior",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image interior photograph",
+    "positive": "A candid photograph of a lived-in mid-century living room at dusk, shot on a 35mm lens from the corner of the room. A warm brass floor lamp has just been switched on in the far corner next to a grey upholstered sofa, casting a pool of orange light across the sofa's two visibly worn cushions. A patterned wool rug lies at an angle in front of the sofa, and in the center of the rug sits a low walnut coffee table with a half-finished jigsaw puzzle laid out on it. A small coffee stain is barely visible near one edge of the rug. Outside the window behind the sofa, the sky is turning deep blue. The room looks occupied rather than styled for a magazine.",
+    "negative": "watermark, magazine-perfect staging, cartoon, hdr look, oversaturated, floating objects"
+  },
+  {
+    "slug": "ai_interior_cafe",
+    "category": "interior",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image interior photograph",
+    "positive": "Interior of a small independent cafe on a rainy afternoon, shot candidly from near the entrance on a 35mm lens. One customer sits on a stool at the counter, elbows on the wood, reading a folded newspaper. Behind the counter, a barista in a black apron works an espresso machine, and a small cloud of steam rises from the portafilter. A chalkboard menu hangs on the wall behind the barista and reads \"Flat White $4.50\" on the top line and \"Pour Over $5\" on the line below. Warm tungsten bulbs hang from the ceiling on black cords, and the overall color balance is warm and slightly yellow. The windows at the front of the frame are beaded with raindrops.",
+    "negative": "watermark, cartoon, garbled text, gibberish letters, oversaturated, floating objects"
+  },
+  {
+    "slug": "ai_hands_kneading",
+    "category": "hands",
+    "workflow": "realism",
+    "aspect": "1:1",
+    "caption": "AI-generated \u2014 Z-Image hands close-up",
+    "positive": "A close-up photograph, shot on a 50mm macro lens at f/4, of a baker's flour-dusted hands kneading a soft ball of dough on a light wooden counter. Both hands are clearly visible, each with exactly five fingers and natural anatomy at every joint. The left hand has a plain gold wedding band on the ring finger, and small cracks in the knuckles are dusted white with flour. Forearms enter the frame from the top, and a scattering of flour lies on the counter to the left and right of the dough. Soft window light comes from above and slightly behind, creating a gentle shadow on the near side of the dough ball.",
+    "negative": "watermark, extra fingers, six fingers, missing fingers, fused fingers, mangled hands, warped knuckles, cartoon, plastic skin"
+  },
+  {
+    "slug": "ai_hands_pottery",
+    "category": "hands",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image hands close-up",
+    "positive": "A close-up photograph of a potter's muddy hands shaping a clay pot on a spinning wheel, shot on an 85mm macro lens at f/2.8 with shallow depth of field. Both hands are clearly visible with anatomically correct fingers: the left hand supports the inside of the pot while the right hand presses against the outer wall, and the clay rises between them. Fingernails are dark with embedded clay and there are small water droplets flying outward from the spinning rim. The background of the potter's apron and the studio wall is softly blurred. A faint motion-blur ring marks the top edge of the wheel.",
+    "negative": "watermark, extra fingers, fused fingers, warped hands, broken wrist geometry, cartoon, oversaturated"
+  },
+  {
+    "slug": "ai_hands_guitar",
+    "category": "hands",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image hands close-up",
+    "positive": "A close-up photograph of a guitarist's fretting hand on the neck of an acoustic guitar mid-chord, shot on an 85mm macro lens. Four fingers press down on individual steel strings across two adjacent frets, and the thumb wraps around the back of the neck in a natural grip. The fingertips show hardened pale calluses where they meet the strings. The fretboard has visible wear under the first five frets, including a small dent near the second fret, and one string casts a thin shadow onto the fretboard between frets. Natural overhead light falls across the neck from upper left.",
+    "negative": "watermark, extra fingers, warped strings, floating fingers, fingers passing through strings, cartoon, plastic skin"
+  },
+  {
+    "slug": "ai_vintage_1920s_street",
+    "category": "vintage",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image vintage B&W pastiche",
+    "positive": "A black and white photograph in the style of a 1920s silver gelatin print, showing a busy New York City street at midday. Pedestrians in period-correct clothing fill the middle distance \u2014 men in dark coats and fedoras, women in cloche hats and long coats \u2014 walking in both directions on a wide sidewalk. On the left side of the frame, a newsboy about twelve years old stands near a lamppost holding up a folded newspaper, and the headline visible above the fold reads \"EXTRA - 1924\". Vintage automobiles with curved fenders are parked nose-to-tail along the curb on the right. The tonality shows modest highlights and deep shadows typical of period silver gelatin prints, with fine uniform grain and very slight fade in the sky toward the top edge.",
+    "negative": "color, oversaturated, hdr look, modern car, modern clothing, garbled text, digital look, crisp digital edges"
+  },
+  {
+    "slug": "ai_vintage_ww2_portrait",
+    "category": "vintage",
+    "workflow": "realism",
+    "aspect": "2:3",
+    "caption": "AI-generated \u2014 Z-Image vintage B&W pastiche",
+    "positive": "A 1940s black and white studio portrait of a young woman about twenty-five years old, seen from the chest up against a plain mottled grey studio backdrop. Her hair is styled in 1940s victory rolls, pinned up high at the temples, and she wears dark lipstick and a fitted jacket with sharp shoulders. The lighting is a classic Hollywood three-point setup with a strong key light from upper left producing a sharp shadow along the right side of her face. The image shows high-contrast silver gelatin print tonality with period-style vignetting darkening the corners. Small surface scratches and a few circular dust spots are visible across the print, consistent with a genuinely aged photograph.",
+    "negative": "color, oversaturated, modern makeup, modern hairstyle, digital clean, garbled text, plastic skin"
+  },
+  {
+    "slug": "ai_vintage_60s_family",
+    "category": "vintage",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image vintage color film pastiche",
+    "positive": "A 1960s family snapshot taken on Kodachrome color film at a roadside rest stop on a summer afternoon. Five people stand in a loose line in front of a large station wagon: a father in shirtsleeves on the left, a mother in a knee-length floral dress on the right, and three children of roughly ages six, nine, and twelve between them. Everyone is squinting slightly into the sun. The station wagon fills the background and has a canoe strapped to the roof rack. The colors show the characteristic warm magenta cast of aged Kodachrome, with fine grain and very slight soft focus that makes the image feel like a real family photograph rather than a studio shot.",
+    "negative": "watermark, digital look, oversaturated, modern clothing, modern car, garbled text, plastic skin"
+  },
+  {
+    "slug": "ai_vintage_dustbowl",
+    "category": "vintage",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image vintage B&W pastiche",
+    "positive": "A 1930s black and white documentary-style photograph of a farming family standing together in front of a weathered wooden barn during the American Dust Bowl era. A father, mother, and two children aged about eight and ten stand in a row, the parents with hands on the children's shoulders. Their faces are deeply tanned and thinly lined from sun and wind, and their expressions are serious and direct. Their clothes are period-correct denim overalls and a plain cotton dress, all visibly worn and dusty. The barn's vertical wood planks behind them have wide gaps between boards, and a layer of fine dust coats the ground and the bottom hems of the clothing. The tonality is weighted toward the midtones, consistent with a silver gelatin print.",
+    "negative": "color, modern clothing, digital clean, garbled text, oversaturated, plastic skin"
+  },
+  {
+    "slug": "ai_sculpture_marble",
+    "category": "sculpture",
+    "workflow": "realism",
+    "aspect": "2:3",
+    "caption": "AI-generated \u2014 Z-Image sculpture photograph",
+    "positive": "A photograph of a life-size classical marble sculpture of a reclining male figure, displayed on a low plinth inside a dim museum gallery. The sculpture fills most of the vertical frame and is lit from above-left by a warm directional spotlight, which casts a soft shadow across the figure's torso and onto the plinth. The marble is not pure white but aged to a slightly yellowed off-white, with fine grey veining running diagonally through the figure's chest and thigh. Along the nearest edge of the plinth there are two small chips exposing lighter stone underneath. The gallery wall behind is a deep neutral grey that fades to near-black in the upper corners, shot on 85mm at f/4.",
+    "negative": "watermark, cartoon, illustration, glossy plastic look, oversaturated, warped anatomy, extra limbs"
+  },
+  {
+    "slug": "ai_sculpture_bronze",
+    "category": "sculpture",
+    "workflow": "realism",
+    "aspect": "2:3",
+    "caption": "AI-generated \u2014 Z-Image sculpture photograph",
+    "positive": "A photograph of a weathered bronze equestrian statue in a European city square on an overcast afternoon, shot on a 50mm lens from ground level looking up so the rider and horse dominate the frame. The bronze shows decades of patina: bright green verdigris runs in long streaks down the horse's flanks from where rain has pooled on the rider's shoulders, while raised areas of the statue have been rubbed to a duller brown by weather. Pale pigeon droppings streak the rider's helmet and one shoulder. In the softly blurred background, the corner of an old stone building and a lamppost are just recognizable.",
+    "negative": "watermark, cartoon, oversaturated, glossy new-looking bronze, illustration, uniform color patina"
+  },
+  {
+    "slug": "ai_sculpture_modern",
+    "category": "sculpture",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image sculpture photograph",
+    "positive": "A photograph of a large modern abstract sculpture made from curved sheets of weathered corten steel, installed in a brick public plaza. The sculpture rises about four meters tall in the center of the frame, its rust-orange surface streaked with darker patches where water has run down after rain. A small child, maybe six years old and wearing a yellow raincoat, stands at the base of the sculpture looking up at it, providing scale. The day is overcast with soft diffuse light and no hard shadows. The brick pavers of the plaza converge toward the sculpture, shot on a 35mm lens from the child's side of the frame.",
+    "negative": "watermark, cartoon, illustration, oversaturated, warped child, extra limbs, plastic skin"
+  },
+  {
+    "slug": "ai_sculpture_wood",
+    "category": "sculpture",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image sculpture photograph",
+    "positive": "A close-up photograph of a carved wooden Buddhist sculpture inside a dim temple interior, shot on an 85mm lens at f/2.8. The sculpture's face and upper torso fill most of the frame, rendered in dark aged wood with very visible chisel marks running across the cheeks and brow. Patches of gold leaf remain on the forehead and lips but have flaked away in several places, exposing the wood beneath. The only light comes from a candle just out of frame to the left, producing a warm glow on the sculpture's left side and leaving the right side in deep shadow. Wisps of incense smoke drift across the softly blurred background on the far side.",
+    "negative": "watermark, cartoon, oversaturated, glossy, illustration, perfect gold leaf"
+  },
+  {
+    "slug": "ai_urbex_mill",
+    "category": "urbex",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image urbex photograph",
+    "positive": "A photograph taken inside an abandoned textile mill on a sunny afternoon, shot on a 24mm wide-angle lens using only available light. Rows of rusted mechanical looms extend diagonally from lower-left to upper-right, receding into the depth of the long brick-walled hall. Tall industrial windows line the right wall and some panes are broken, sending sharp shafts of sunlight across the concrete floor that catch in the suspended dust. Several small puddles on the uneven floor reflect fragments of the windows. Old cream-colored paint on the walls has peeled in long curled strips revealing a darker teal color underneath. No people are present.",
+    "negative": "watermark, cartoon, oversaturated, hdr look, polished, illustration, staged cleanup"
+  },
+  {
+    "slug": "ai_urbex_hospital",
+    "category": "urbex",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image urbex photograph",
+    "positive": "A photograph of an abandoned hospital hallway, shot on a 24mm wide-angle lens. The hallway recedes into the middle distance with a vanishing point slightly left of center, and an overturned wheelchair sits about three meters into the corridor, one wheel still spinning is implied by a subtle motion cue. The walls are clad in mint-green tile up to about waist height, with faded graffiti tags on one tile panel on the right. Several ceiling tiles have fallen and hang loose on their wires, exposing the rusted frame above. Cold grey natural light filters down through a broken skylight further along the hall, making a rough pool of light on the linoleum floor.",
+    "negative": "watermark, cartoon, oversaturated, hdr look, staged, illustration, clean floor"
+  },
+  {
+    "slug": "ai_urbex_theater",
+    "category": "urbex",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image urbex photograph",
+    "positive": "Interior of an abandoned grand theater, shot on a 24mm wide-angle lens from the back of the main floor looking toward the stage. Rows of red velvet seats fill the lower half of the frame, most of them partially collapsed with their springs visibly protruding through torn upholstery. A small sapling grows up through a crack in the wooden stage floor in the center of the frame, about two meters tall. The proscenium arch above the stage is decorated with gilt plaster that has broken away in several chunks, revealing the grey plaster substrate underneath. Thin shafts of sunlight angle down from a small hole in the roof above the stage, catching suspended dust.",
+    "negative": "watermark, cartoon, oversaturated, hdr look, staged restoration, illustration"
+  },
+  {
+    "slug": "ai_weather_lightning",
+    "category": "weather",
+    "workflow": "realism",
+    "aspect": "16:9",
+    "caption": "AI-generated \u2014 Z-Image weather photograph",
+    "positive": "A nighttime long-exposure photograph of a Midwestern cornfield during a thunderstorm, shot on a tripod with a 30-second exposure at f/8 and ISO 100. A single forked lightning bolt branches down from the top of the frame to the horizon in the right third of the image, illuminating the undersides of purple-black storm clouds above. In the foreground, rows of tall corn are faintly lit by the strike and show subtle motion blur where wind bent them during the exposure. A silhouetted grain silo stands on the horizon in the left third of the frame for compositional balance. No other light sources are present except the lightning.",
+    "negative": "watermark, cartoon, oversaturated, multiple identical bolts, fake symmetrical lightning, illustration, daylight"
+  },
+  {
+    "slug": "ai_weather_fog",
+    "category": "weather",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image weather photograph",
+    "positive": "A photograph of dense morning fog rolling through a grove of old-growth coastal redwoods, shot on a 50mm lens. The massive tree trunks rise out of frame on both sides of the image, their bark showing detailed fissured texture in the few feet closest to the camera and softening into silhouettes further back. A single hiker in a bright red jacket walks away from the camera along a muddy trail in the center of the frame, about twenty meters ahead, small enough to give scale to the trees around them. Pale shafts of light angle down from upper left through the canopy and pick out the fog as soft god-rays. The overall color palette is cool and muted.",
+    "negative": "watermark, cartoon, oversaturated, fake-looking mist, illustration"
+  },
+  {
+    "slug": "ai_weather_wave",
+    "category": "weather",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image weather photograph",
+    "positive": "A photograph of a massive storm wave crashing over a long stone pier during a North Atlantic gale, shot on a 400mm telephoto lens from the safety of the shore so the pier compresses into the frame. The wave rises in the left third of the image taller than the pier itself and explodes upward into a curtain of white sea spray that shoots above the pier's lamppost. A tiny silhouette of a red and white lighthouse stands at the far end of the pier in the right third of the frame, partially obscured by spray. The sky and sea are both desaturated greys and browns, and streaks of wind-driven rain show faintly against the darker background.",
+    "negative": "watermark, cartoon, oversaturated, fake symmetrical spray, illustration, calm water"
+  },
+  {
+    "slug": "ai_weather_snowstorm",
+    "category": "weather",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image weather photograph",
+    "positive": "A photograph of a lone hiker in bright orange winter gear trudging diagonally across deep snow during a heavy alpine blizzard, shot on an 85mm telephoto lens with a fast shutter speed that freezes individual snowflakes mid-flight. The snowflakes appear as small sharp streaks at a steep angle, indicating a strong wind. Visibility is poor, and the hiker is partially obscured by falling snow, but the bright orange of their jacket remains the brightest element in the frame. Everything beyond about ten meters fades into a uniform grey-white with faint hints of darker pine trees.",
+    "negative": "watermark, cartoon, oversaturated, gentle flurry, illustration, clear weather"
+  },
+  {
+    "slug": "ai_reflection_puddle",
+    "category": "reflection",
+    "workflow": "realism",
+    "aspect": "2:3",
+    "caption": "AI-generated \u2014 Z-Image reflection photograph",
+    "positive": "A low-angle photograph of a city street puddle at night on a rainy sidewalk, shot on a 35mm lens with the camera almost at ground level. A red neon sign across the street reads \"DINER\" and its full reflection is visible in the puddle, mirrored correctly left-to-right so the letters in the reflection are reversed. At the upper edge of the puddle, the tip of a black leather shoe steps around the edge of the water, belonging to a pedestrian mostly out of frame. Fine ripples disturb the reflection near the shoe. The wet asphalt around the puddle glistens with scattered reflections of other colored lights in the distance.",
+    "negative": "watermark, cartoon, impossible reflection geometry, non-mirrored text, un-reversed reflected letters, oversaturated, illustration"
+  },
+  {
+    "slug": "ai_reflection_shopwindow",
+    "category": "reflection",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image reflection photograph",
+    "positive": "A candid photograph of the exterior of a vintage camera shop in late golden-hour light, shot on a 50mm lens square-on to the shop window. Inside the window behind the glass, a tidy display of old film cameras on wooden stands is clearly visible in the lower half of the frame. Overlaid on the upper half of the window is a reflection of the street behind the photographer: two parked cars, a cyclist in motion passing from right to left, and warm light from the setting sun hitting a brick wall. The two image layers \u2014 display inside, street reflection outside \u2014 are consistently lit with the setting sun only in the reflection.",
+    "negative": "watermark, cartoon, impossible double-image geometry, oversaturated, illustration, same lighting on both layers"
+  },
+  {
+    "slug": "ai_reflection_mountainlake",
+    "category": "reflection",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image reflection photograph",
+    "positive": "A landscape photograph of a still alpine lake at dawn, shot on a 24mm wide-angle lens from a tripod. The composition is split exactly horizontally: the upper half shows jagged snow-capped mountains with a thin layer of cloud halfway up their slopes, and the lower half shows the same mountains reflected in the water. The reflection is nearly a perfect mirror but broken by subtle concentric ripples near the near shore at the bottom of the frame, where the water is just barely disturbed. A thin band of fog hovers on the lake surface in the middle distance, partially veiling the reflection at the horizon line.",
+    "negative": "watermark, cartoon, mismatched reflection geometry, reflection out of line with subject, oversaturated, illustration"
+  },
+  {
+    "slug": "ai_kids_beach",
+    "category": "kids",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image candid children photograph",
+    "positive": "A candid photograph of two children, about seven and nine years old, kneeling side by side in the wet sand of a beach at low tide, working on an elaborate sandcastle. The older child on the left holds a bright red plastic bucket upended over a tower, and the younger on the right uses a yellow plastic shovel to scoop sand into a moat. Both children are mid-action and neither looks at the camera. The ocean and a low horizon take up the upper third of the frame in soft evening light, with small whitecaps on distant waves. The shot has the slight motion blur and natural grain of a 35mm film photograph. Both children have anatomically normal hands and faces.",
+    "negative": "watermark, posed, plastic skin, extra fingers, creepy porcelain faces, cartoon, oversaturated, perfect hair"
+  },
+  {
+    "slug": "ai_kids_soccer",
+    "category": "kids",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image candid children photograph",
+    "positive": "A youth soccer game on a rainy spring afternoon, shot on a 200mm telephoto lens with the photographer panning to match the action. In the center of the frame, a child about ten years old is caught mid-kick, their right leg extended toward a ball that is just leaving their foot and sending an arc of mud and water behind it. Their breath is briefly visible as a faint cloud in the cold air. The uniform shows realistic imperfections: grass stains on the knees, one sock slipping down, and the number on the back slightly mud-spattered. A chipped front tooth is just visible through their open mouth of effort. The background of other players and a soggy field is softly blurred by the pan.",
+    "negative": "watermark, posed, plastic skin, extra fingers, cartoon, oversaturated, perfect uniform, perfect teeth"
+  },
+  {
+    "slug": "ai_kids_birthday",
+    "category": "kids",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image candid children photograph",
+    "positive": "A candid photograph of a child's birthday party at home, shot on a 35mm lens at ISO 1600 with no flash, so there is visible grain and the image is lit only by warm incandescent dining room bulbs. In the center of the frame, a child about seven years old leans forward to blow out the candles on a slightly lopsided homemade chocolate cake. A small smear of chocolate frosting is visible on the child's left cheek. Three other children crowd in from the edges of the frame, two of them blurry because they are closer to the camera. The cake sits on a wooden dining table with scattered paper plates, a half-empty bottle of apple juice, and a few small crumpled napkins.",
+    "negative": "watermark, posed, plastic skin, extra fingers, cartoon, oversaturated, staged studio, perfect cake"
+  },
+  {
+    "slug": "ai_night_citystreet",
+    "category": "night",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image low-light photograph",
+    "positive": "A quiet European city street at 2am in light rain, shot handheld on a 35mm lens at ISO 3200 so there is visible luminance noise in the dark areas. The street is cobblestone, glistening wet, and curves slightly to the right in the distance. On the left side of the frame about halfway back, a small corner bakery has its front window lit from inside with warm tungsten light that spills out onto the cobblestones. The window itself shows a few loaves and pastries on wooden trays, slightly blurred behind the rain-streaked glass. No people are in the street, and all other shopfronts are dark. The sky is a heavy uniform grey.",
+    "negative": "watermark, cartoon, oversaturated, daytime lighting, illustration, clean pavement"
+  },
+  {
+    "slug": "ai_night_campfire",
+    "category": "night",
+    "workflow": "realism",
+    "aspect": "1:1",
+    "caption": "AI-generated \u2014 Z-Image low-light photograph",
+    "positive": "A photograph of a small campfire at night deep in the woods, shot on a fast 35mm lens wide open at f/1.8. The fire fills the lower center of the frame, with orange and yellow flames about a foot tall consuming a few split logs. Two friends sit on opposite sides of the fire, each holding a long stick with a marshmallow pointed toward the flames, their faces and hands lit warmly from below while the rest of their bodies fade into near-total darkness. Sparks rise from the fire and drift upward into the blackness of the tree canopy above. A few stars are barely visible through gaps in the branches. The image has pronounced grain consistent with high ISO film.",
+    "negative": "watermark, cartoon, oversaturated, daytime look, illustration, clean digital"
+  },
+  {
+    "slug": "ai_market_fishmarket",
+    "category": "market",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image market photograph",
+    "positive": "A documentary-style photograph of a Tokyo fish market at dawn, shot on a 24mm wide-angle lens. The concrete floor is wet and reflects the cold overhead fluorescent lighting. Foam crates of shaved ice holding whole silver fish sit in rows in the foreground and extend diagonally into the middle distance. On the left side, a vendor in blue rubber boots and a rubber apron hoists a large tuna onto a stainless steel table, his back slightly turned toward the camera. Small hand-lettered paper signs with Japanese prices stand in metal clip holders on the fronts of several crates. The scene feels active but not staged.",
+    "negative": "watermark, cartoon, garbled text, oversaturated, illustration, dry floor"
+  },
+  {
+    "slug": "ai_market_flowermarket",
+    "category": "market",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image market photograph",
+    "positive": "A candid photograph taken from inside a flower stall at an Amsterdam market, shot on a 35mm lens. In the foreground fill the frame with tin buckets arranged on tiered wooden shelves, each bucket holding tulips of a different color: deep red, saturated pink, pale yellow, and a dense bunch of white tulips in the center. Toward the back-right of the frame, the vendor's hands are visible wrapping a small bouquet in brown kraft paper for a customer who is just out of frame, with only the customer's outstretched arm and watch visible. Soft overcast daylight comes from the open front of the stall on the right.",
+    "negative": "watermark, cartoon, oversaturated, illustration, floating flowers"
+  },
+  {
+    "slug": "ai_portrait_elderly_woodcarver",
+    "category": "portrait",
+    "workflow": "realism",
+    "aspect": "2:3",
+    "caption": "AI-generated \u2014 Z-Image portrait",
+    "positive": "An environmental portrait of an elderly Japanese woodcarver in his small workshop, shot on an 85mm lens at f/2.8. He is seated at a workbench that extends into the frame from below, facing slightly off-camera with his eyes down toward his hands. Deep wrinkles line his forehead and cheeks, his wispy white hair is short, and he wears thick black-framed glasses that catch a small reflection of the window behind him. His hands are in focus and anatomically correct, holding a small finished wooden carving of a bird between thumb and forefinger. Natural daylight streams in from a large window directly behind him, creating a bright rim light on his shoulders and hair while the front of his face is softly lit by reflected light from the workbench.",
+    "negative": "watermark, plastic skin, airbrushed, waxy, symmetrical, cartoon, extra fingers, warped glasses"
+  },
+  {
+    "slug": "ai_portrait_nurse_night",
+    "category": "portrait",
+    "workflow": "realism",
+    "aspect": "2:3",
+    "caption": "AI-generated \u2014 Z-Image portrait",
+    "positive": "An environmental portrait of a tired night-shift nurse standing in a hospital hallway shortly after 3am, shot on a 50mm lens at f/1.8. She wears light blue scrubs and a cotton cardigan, and holds a small styrofoam cup of coffee in both hands, steam rising from the rim. Her face shows realistic fatigue: slight puffiness under the eyes, a strand of hair loose from her ponytail, and no makeup. A plastic hospital ID badge hangs on a lanyard at her chest, its photo and text so small they are illegible rather than misspelled. The corridor behind her is lit by fluorescent tubes and softly blurs into pale grey, with a partially visible wall sign indicating a ward number.",
+    "negative": "watermark, plastic skin, airbrushed, oversaturated, cartoon, extra fingers, garbled text on badge"
+  },
+  {
+    "slug": "ai_animal_octopus",
+    "category": "wildlife",
+    "workflow": "realism",
+    "aspect": "1:1",
+    "caption": "AI-generated \u2014 Z-Image wildlife photograph",
+    "positive": "A close-up underwater photograph of a reef octopus peering out from a crevice between branches of brain coral, shot on a 60mm underwater macro lens using only natural light filtering down through about three meters of tropical water. One of the octopus's arms is curled in an S-shape around an adjacent rock in the foreground, showing individual suction cups of decreasing size along its length. Its skin is textured with small bumps that fade from deep red near its body to a paler cream on the curled arm tip. One large round eye dominates the center of the frame and is in sharp focus, while the far side of the coral is softly diffused by particles in the water.",
+    "negative": "watermark, cartoon, illustration, oversaturated, toy-like, too-clean water, warped anatomy"
+  },
+  {
+    "slug": "ai_animal_elephant_dust",
+    "category": "wildlife",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image wildlife photograph",
+    "positive": "A telephoto wildlife photograph of an adult African elephant kicking up dust in the late afternoon on an East African savannah, shot on a 400mm prime lens with strong background compression. The elephant stands in the center-right of the frame facing left, with its front left foot lifted and a cloud of dust swirling around its legs. The low sun is behind the elephant, backlighting the dust so it glows orange and obscures the elephant's feet. On the left side of the frame, a single gnarled acacia tree is silhouetted against the hazy sky, providing compositional balance and reinforcing the sense of distance.",
+    "negative": "watermark, cartoon, illustration, oversaturated, toy-like, perfect frontal lighting"
+  },
+  {
+    "slug": "ai_macro_mushroom",
+    "category": "macro",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image macro photograph",
+    "positive": "A macro photograph of a small cluster of bright orange mushrooms growing on the side of a moss-covered fallen log in a damp forest, shot on a 100mm macro lens at f/4. Three mushrooms of varying sizes fill most of the frame, the largest cap in the center measuring about two centimeters across. Small round raindrops bead on the smooth caps, and one drop near the edge of the largest cap is about to fall. Only the nearest cap is in sharp focus; the others and the log behind them are softly blurred into green and brown bokeh. The damp log shows individual moss strands at the point where the mushrooms emerge.",
+    "negative": "watermark, cartoon, illustration, oversaturated, painterly, toy-like"
+  },
+  {
+    "slug": "ai_art_japanese_ink",
+    "category": "art-ink",
+    "workflow": "art",
+    "aspect": "2:3",
+    "caption": "AI-generated \u2014 Z-Image painting pastiche",
+    "positive": "A traditional Japanese sumi-e ink painting on aged washi paper, depicting a single crane standing in shallow water. The crane occupies the lower right of the composition, its long legs and S-curved neck rendered in confident single brushstrokes of bold black ink with visible variations in wetness. Vast empty space fills the upper left of the composition, with only a few faint suggestive brushstrokes hinting at distant reeds. A small square red seal is pressed into the paper in the lower right corner near the crane's feet. The washi paper itself shows subtle foxing and a warm cream tone consistent with age.",
+    "negative": "watermark, photograph, photorealistic, 3d render, modern digital art, color ink"
+  },
+  {
+    "slug": "ai_art_medieval_manuscript",
+    "category": "art-manuscript",
+    "workflow": "art",
+    "aspect": "2:3",
+    "caption": "AI-generated \u2014 Z-Image painting pastiche",
+    "positive": "A medieval illuminated manuscript page in the style of 14th-century Gothic European illumination. The central panel depicts a knight on horseback in full plate armor, drawn with stylized flat perspective, the horse's body in profile and its head turned slightly toward the viewer. Brilliant ultramarine blue backgrounds, vermilion red tunics, and gold leaf accents give the painting a jewel-like quality. Around the central panel, the marginalia include twisting vines, tiny fantastical creatures, and a rabbit playing a lute. The vellum page has visibly aged to a warm cream color with one soft crease running diagonally across the lower corner.",
+    "negative": "watermark, photograph, photorealistic, 3d render, modern digital art, perspective drawing"
+  },
+  {
+    "slug": "ai_art_expressionist_dancers",
+    "category": "art-expressionist",
+    "workflow": "art",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image painting pastiche",
+    "positive": "An early 20th century expressionist oil painting of three dancers in a smoky cabaret, in the stylistic lineage of Kirchner and the Br\u00fccke group. The dancers are elongated and distorted, their limbs too long and their faces mask-like, caught mid-motion across the canvas. Clashing colors dominate: a hot red tone on the nearest dancer's dress plays against deep viridian green shadows on the back wall and yellow highlights along the edges of the stage floor. The paint is applied thickly in visible brushstrokes, some scraped with a palette knife, and the canvas weave shows through in thinner areas.",
+    "negative": "watermark, photograph, photorealistic, 3d render, clean digital, thin flat color, photographic lighting"
+  },
+  {
+    "slug": "ai_art_cubist_still_life",
+    "category": "art-cubist",
+    "workflow": "art",
+    "aspect": "1:1",
+    "caption": "AI-generated \u2014 Z-Image painting pastiche",
+    "positive": "An analytic cubist oil painting of a still life, composed in the muted palette of Braque and Picasso circa 1912. The subjects \u2014 a guitar on its side, a wine bottle, and a folded newspaper \u2014 are fragmented into faceted overlapping planes of ochre, taupe, grey, and umber. The neck of the guitar appears in two positions at once across the canvas. A strip of collaged newsprint with the partially readable word \"LE JOURNAL\" is visible near the center, with smaller fragments of illegible print above and below. The edges of the canvas are slightly darker, and visible brushstrokes give the flat planes texture.",
+    "negative": "watermark, photograph, photorealistic, 3d render, smooth modern digital, colorful saturated palette"
+  },
+  {
+    "slug": "ai_macro_snail_eye",
+    "category": "macro",
+    "workflow": "realism",
+    "aspect": "1:1",
+    "caption": "AI-generated \u2014 Z-Image macro photograph",
+    "positive": "An extreme macro photograph of a garden snail seen from slightly above and the side, shot on a 100mm macro lens stacked with a close-up filter to achieve 2:1 magnification. The snail's two long upper tentacles extend toward the upper right of the frame, each ending in a small black eye, and the texture of its damp rubbery skin is rendered in minute detail with tiny beading of mucus along its body. The shell occupies the upper-left third of the frame, its spiral showing thin brown and cream bands and a small chip near the aperture. The background of a green leaf is compressed to smooth bokeh, with a single droplet in the near field providing a tiny curved highlight.",
+    "negative": "watermark, cartoon, illustration, oversaturated, toy-like, plastic skin"
+  },
+  {
+    "slug": "ai_wildlife_polar_bear",
+    "category": "wildlife",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image wildlife photograph",
+    "positive": "A wildlife photograph of a lone polar bear walking across thin pack ice in the Arctic, shot on a 500mm telephoto lens from a safe distance. The bear is in the center of the frame, seen from the side with its head lowered, each paw leaving a faint wet print on the ice behind it. Its fur is not pure white but shows a yellowish cast and small dark patches where it has rolled in dirty ice, and visible icicles hang from the fur of its belly. Thin cracks in the ice radiate out from around the bear, and a pool of dark seawater at the left edge of the frame provides contrast against the pale ice. The sky is a flat overcast grey.",
+    "negative": "watermark, cartoon, illustration, oversaturated, toy-like, pure-white fur, plastic snow"
+  },
+  {
+    "slug": "ai_sports_basketball",
+    "category": "sports",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image sports photograph",
+    "positive": "A photograph of a professional basketball player caught mid-dunk during a packed indoor game, shot on a 300mm telephoto lens with a fast shutter that freezes the ball just as it enters the rim. The player is airborne with legs tucked slightly under them, their left hand guiding the ball into the basket. Motion blur on the crowd's raised arms in the softly out-of-focus background suggests excitement, and the bright arena spotlights produce a thin rim light along the player's shoulders and the ball. Sweat droplets are visible on the player's forearm in sharp focus. The hardwood floor at the bottom of the frame shows a faint reflection of the lights.",
+    "negative": "watermark, cartoon, illustration, oversaturated, plastic skin, extra fingers, warped anatomy"
+  },
+  {
+    "slug": "ai_craftsman_watchmaker",
+    "category": "craftsman",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image environmental portrait",
+    "positive": "An environmental portrait of an elderly watchmaker at his workbench, shot on an 85mm lens at f/2.8 from slightly behind his left shoulder. A jeweler's loupe is fixed in his right eye, and his head is tilted down toward a disassembled mechanical movement laid out on a white cloth in front of him. Tiny brass gears, a balance wheel, and several minute screws are arranged in precise positions on the cloth. His hands, anatomically correct with five fingers each, hold a pair of fine tweezers gripping a single gear. Warm light from a small desk lamp on the right illuminates the workbench and creates a soft glow on the side of his face. The shop behind him is softly blurred.",
+    "negative": "watermark, plastic skin, airbrushed, extra fingers, warped loupe, cartoon, oversaturated"
+  },
+  {
+    "slug": "ai_music_violinist",
+    "category": "music",
+    "workflow": "realism",
+    "aspect": "2:3",
+    "caption": "AI-generated \u2014 Z-Image music performance photograph",
+    "positive": "A concert photograph of a young violinist performing a solo on a small darkened stage, shot on a 135mm lens at f/2. The violinist stands in the center of the frame, eyes closed with an expression of concentration, her chin resting on the rest of the violin. Her bow is in mid-stroke across the strings with a slight blur suggesting motion. A single warm spotlight from above left creates strong contrast, with bright highlights on her forehead and shoulders and the rest of the stage fading to near-black. The neck of the violin, held at a natural angle, extends off the left of the frame, and four strings are visibly distinct under the bow.",
+    "negative": "watermark, plastic skin, airbrushed, extra fingers, warped bow, warped violin neck, cartoon, oversaturated"
+  },
+  {
+    "slug": "ai_pet_dog_window",
+    "category": "pet",
+    "workflow": "realism",
+    "aspect": "1:1",
+    "caption": "AI-generated \u2014 Z-Image pet photograph",
+    "positive": "A candid photograph of a golden retriever resting its chin on a sunlit windowsill, shot on a 50mm lens at f/2.8. The dog's head fills the center of the frame with its brown eyes looking out the window, slightly unfocused, as if watching something outside. Soft side-light through the window illuminates the golden fur with visible individual strands along the forehead and the faint pink of the inner ear. A small puddle of drool has formed where the dog's lower jaw rests on the white-painted wood of the windowsill. Outside the window is softly overexposed, suggesting a bright but overcast afternoon with hints of green leaves. The composition feels candid rather than posed.",
+    "negative": "watermark, cartoon, illustration, oversaturated, toy-like, plastic fur, warped anatomy"
+  },
+  {
+    "slug": "ai_street_skateboarder",
+    "category": "street",
+    "workflow": "realism",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image street photograph",
+    "positive": "A street photograph of a skateboarder caught mid-kickflip over a concrete ledge in an empty urban plaza at late afternoon, shot on a 24mm wide-angle lens from low and close. The skater is airborne with their board rotating upside down beneath them, arms out for balance. Their shadow is sharply cast onto the concrete to the right, stretched long by the low sun. A graffiti-tagged wall runs behind them in the middle distance, and a couple of friends sit on a curb in the far background, one with a phone raised to record. The plaza is otherwise empty, and the light has the warm amber quality of golden hour.",
+    "negative": "watermark, cartoon, illustration, oversaturated, warped board, floating feet, plastic skin"
+  },
+  {
+    "slug": "ai_underwater_kelp",
+    "category": "underwater",
+    "workflow": "realism",
+    "aspect": "2:3",
+    "caption": "AI-generated \u2014 Z-Image underwater photograph",
+    "positive": "An underwater photograph looking up through a towering kelp forest toward the surface, shot on a 16mm fisheye lens in about ten meters of cold Pacific water. Thick kelp stalks rise from the dark depths below the frame up toward the bright blue-green surface, some draped with floating bladders. Sunlight filters down in visible shafts, refracting off the moving surface of the water above and illuminating fine particles suspended in the water. A small group of silver fish swims across the upper middle of the frame, each fish distinct and unblurred. The overall tone is cool blues and greens with a bright halo around the sun near the top of the frame.",
+    "negative": "watermark, cartoon, illustration, oversaturated, tropical aqua color, fake lens flare"
+  },
+  {
+    "slug": "ai_art_surrealism_clock",
+    "category": "art-surrealism",
+    "workflow": "art",
+    "aspect": "3:2",
+    "caption": "AI-generated \u2014 Z-Image painting pastiche",
+    "positive": "A surrealist oil painting in the lineage of early Dal\u00ed, depicting a desolate beach landscape at twilight with long shadows stretching across cracked yellow earth. In the foreground, a gold pocket watch drapes limply over the edge of a bare tree branch like melting cheese, its face showing Roman numerals and hands stuck at a deliberately absurd time. A second watch, also soft, rests half-open on a flat stone in the middle distance, with a single ant crawling on its rim. In the far background, a line of distant cliffs meets a pale sky fading from pink at the horizon to deep indigo at the top of the frame. The brushwork is smooth and meticulous in the Old Master manner, with subtle canvas texture and a warm aged varnish.",
+    "negative": "watermark, photograph, photorealistic, 3d render, modern digital art, flat cartoon illustration"
   }
 ]
