@@ -26,7 +26,6 @@ prompt whose .jpg currently exists — safe across --only / --force / partial ru
 """
 import argparse
 import copy
-import io
 import json
 import os
 import random
@@ -38,16 +37,12 @@ import uuid
 from pathlib import Path
 
 try:
-    from PIL import Image
-except ImportError:
-    sys.stderr.write("Missing dependency. Run: uv pip install --python .venv Pillow\n")
-    sys.exit(1)
-
-try:
     import websocket  # websocket-client
 except ImportError:
-    sys.stderr.write("Missing dependency. Run: pip install websocket-client\n")
+    sys.stderr.write("Missing dependency. Run: uv pip install --python .venv websocket-client Pillow\n")
     sys.exit(1)
+
+from img_utils import shrink_to_jpeg  # noqa: E402
 
 HERE = Path(__file__).parent.resolve()
 REPO = HERE.parent
@@ -67,11 +62,6 @@ NODE_LATENT = "130"
 NODE_SEED = "509"          # RandomNoise.noise_seed
 SEED_KEY = "noise_seed"
 
-# Downscale the ComfyUI PNG to roughly match the real-photo assets
-# (Commons thumbs are ~1024px wide, 100-600 KB).
-OUTPUT_MAX_DIM = 1280
-OUTPUT_JPEG_QUALITY = 85
-
 # Aspect ratios -> (width, height). Kept close to ~2 MP, multiples of 64.
 # Matches the "1920x1088" budget of the supplied workflow (≈2.1 MP).
 ASPECTS = {
@@ -83,20 +73,6 @@ ASPECTS = {
     "4:3":  (1664, 1280),
     "3:4":  (1280, 1664),
 }
-
-
-def shrink_to_jpeg(png_bytes, max_dim=OUTPUT_MAX_DIM, quality=OUTPUT_JPEG_QUALITY):
-    """Decode a PNG, downscale so longest side <= max_dim, return JPEG bytes."""
-    img = Image.open(io.BytesIO(png_bytes))
-    if img.mode not in ("RGB", "L"):
-        img = img.convert("RGB")
-    w, h = img.size
-    scale = min(1.0, max_dim / max(w, h))
-    if scale < 1.0:
-        img = img.resize((int(w * scale), int(h * scale)), Image.LANCZOS)
-    buf = io.BytesIO()
-    img.save(buf, format="JPEG", quality=quality, optimize=True, progressive=True)
-    return buf.getvalue()
 
 
 def load_seeds():

@@ -31,13 +31,13 @@ Usage:
     python download_commons.py
 """
 import json
-import os
-import re
 import time
 import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
+
+from img_utils import shrink_to_jpeg
 
 HERE = Path(__file__).parent.resolve()
 OUT = HERE.parent / "images" / "real"
@@ -68,17 +68,10 @@ def get_url(title):
     return None
 
 
-def download(url, dest):
+def download(url):
     req = urllib.request.Request(url, headers={"User-Agent": "realOrAi-game/1.0"})
     with urllib.request.urlopen(req, timeout=60) as r:
-        data = r.read()
-    dest.write_bytes(data)
-    return len(data)
-
-
-def ext_from_url(url):
-    m = re.search(r"\.([a-zA-Z0-9]+)(?:/|$|\?)", url.split("/")[-1])
-    return ("." + m.group(1).lower()) if m else ".jpg"
+        return r.read()
 
 
 def main():
@@ -88,14 +81,9 @@ def main():
         return
 
     for title, slug, caption in CANDIDATES:
-        # Skip if already present under any common extension
-        existing = next(
-            (OUT / f"{slug}{e}" for e in (".jpg", ".jpeg", ".png", ".webp")
-             if (OUT / f"{slug}{e}").exists() and (OUT / f"{slug}{e}").stat().st_size > 5000),
-            None,
-        )
-        if existing:
-            print(f"  SKIP {existing.name}")
+        dest = OUT / f"{slug}.jpg"
+        if dest.exists() and dest.stat().st_size > 5000:
+            print(f"  SKIP {dest.name}")
             continue
 
         for attempt in range(6):
@@ -104,12 +92,10 @@ def main():
                 if not u:
                     print(f"  [NO-URL] {title}")
                     break
-                ext = ext_from_url(u)
-                if ext not in (".jpg", ".jpeg", ".png", ".webp"):
-                    ext = ".jpg"
-                dest = OUT / f"{slug}{ext}"
-                size = download(u, dest)
-                print(f"  OK {dest.name} ({size//1024} KB)  |  {caption}")
+                raw = download(u)
+                jpg = shrink_to_jpeg(raw)
+                dest.write_bytes(jpg)
+                print(f"  OK {dest.name} ({len(raw)//1024} KB -> {len(jpg)//1024} KB)  |  {caption}")
                 time.sleep(2.5)
                 break
             except urllib.error.HTTPError as e:
