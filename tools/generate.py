@@ -17,7 +17,7 @@ Run:
     python generate.py                      # generate all missing
     python generate.py --only ai_food_ramen # single prompt
     python generate.py --force              # regenerate even if exists
-    python generate.py --server 192.168.33.101:8188
+    python generate.py --server HOST:8188
 
 On each run, rewrites the marker block in ../images.js so it matches every
 prompt whose .jpg currently exists — safe across --only / --force / partial runs:
@@ -199,7 +199,7 @@ def update_images_js(all_prompts):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--server", default=os.environ.get("COMFY_SERVER", "192.168.33.101:8188"))
+    ap.add_argument("--server", default=os.environ.get("COMFY_SERVER", "127.0.0.1:8188"))
     ap.add_argument("--prompts", default=str(PROMPTS_FILE))
     ap.add_argument("--only", help="Run a single prompt by slug")
     ap.add_argument("--force", action="store_true", help="Regenerate even if output exists")

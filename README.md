@@ -59,7 +59,7 @@ Then add corresponding entries to `images.js`.
 ## Generate more AI images
 
 1. Add prompts to `tools/prompts.json`.
-2. Make sure your ComfyUI server is reachable (defaults to `192.168.33.101:8188` — override with `--server`).
+2. Make sure your ComfyUI server is reachable (defaults to `127.0.0.1:8188` — override with `--server HOST:PORT` or the `COMFY_SERVER` env var).
 3. Run:
 
     ```bash
